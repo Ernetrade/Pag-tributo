@@ -1,0 +1,65 @@
+
+html {
+    margin: 0%;
+    padding: 0%;
+}
+
+article {
+    padding: 5%;
+}
+
+body {
+ background-color: darkgray;
+ padding: 0%;
+ margin: 0%;
+}
+
+header {
+    background-color: rgb(197, 186, 171);
+} 
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+} 
+
+footer nav a {
+    text-decoration: none;
+    color: rgb(86, 86, 161);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+
+/*Encabezado*/
+.titulo {
+    text-align: center;
+    padding: 3%;
+}
+
+.primeraF {
+    width: 300px;
+    height: 340px;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 19), 0 6px 6px rgba(0, 0, 0, 0.23); 
+     
+}
+
+.img_caption {
+    padding: 5%;
+    font-size: 20px;
+}
+
+/*main_section*/
+
+.texto {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lista {
+    font-family: monospace;
+    font-size: 15px;
+}
+
